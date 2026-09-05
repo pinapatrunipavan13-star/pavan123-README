@@ -1,4 +1,3 @@
-<!-- ================= HERO BANNER ================= -->
 
 <div align="center">
 
@@ -6,19 +5,13 @@
 
 </div>
 
----
 
-<!-- ================= ANIMATED TEXT ================= -->
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=JAVA+DEVELOPER;WEB+DEVELOPMENT+ENTHUSIAST;PROBLEM+SOLVER;LIFELONG+LEARNER"/>
 
 </div>
-
----
-
-<!-- ================= PROFILE VIEWS ================= -->
 
 <div align="center">
 
@@ -30,7 +23,6 @@
 
 </div>
 
----
 
 # 🌌 ABOUT ME
 
